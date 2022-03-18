@@ -1,0 +1,45 @@
+Короткое описание 
+Summary
+
+Проект
+Project
+
+Компонент приложения
+Component
+
+Номер версии 
+Version
+
+Важность:
+Severity
+	S1 Блокирующая (Blocker)
+	S2 Критическая (Critical)
+	S3 Значительная (Major)
+	S4 Незначительная (Minor)
+	S5 Тривиальная (Trivial)
+
+Приоритет:
+Priority
+	P1 Высокий (High)
+	P2 Средний (Medium)
+	P3 Низкий (Low)
+
+Статус 
+Status
+
+Автор
+Author
+
+Назначен на 
+Assigned To
+
+Шаги воспроизведения 
+Steps to Reproduce
+
+Фактический Результат 
+Result
+
+Ожидаемый результат
+Expected Result
+
+
